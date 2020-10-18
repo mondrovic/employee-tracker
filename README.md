@@ -10,10 +10,12 @@ Employee Tracker is a CLI based program that utilizes a SQL Database. Employee T
 - Add a new department to the department table
 - Add a new role to the role table
 
-* [Installation](#installation)
-* [Usage](#usage)
-* [Credits](#Credits)
-* [Questions](#questions)
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#Credits)
+- [Questions](#questions)
 
 ![image](./employee-tracker.jpg)
 
