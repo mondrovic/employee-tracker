@@ -99,7 +99,7 @@ function viewAllRoles() {
 
 // **** VIEW EMPLOYEES ****
 function viewAllEmpl() {
-  let sql = `SELECT * FROM role`;
+  let sql = `SELECT * FROM employee`;
   promiseConnection.then((connect) => {
     connect.query(sql, (err, res) => {
       console.table(res);
